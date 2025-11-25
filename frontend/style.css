@@ -1,0 +1,10 @@
+body {
+font-family: Arial, sans-serif;
+padding: 20px;
+}
+.note {
+    background: #f3f3f3;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
