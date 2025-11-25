@@ -25,6 +25,3 @@ coverage/
 # Optional: ignore frontend build
 frontend/dist/
 frontend/node_modules/
-
-package-lock.json
-# package.json
